@@ -1,8 +1,8 @@
 {
-  "footer": "Copyright &copy; 2019",
-  "dark_mode": false,
-  "site_name": "Nichlas W. Andersen",
-  "site_description": "Creative technologist",
-  "hero_title": "Simplicity. Aesthetics. Value.",
-  "hero_subtitle": "Hi there, I'm an independent Digital Designer &amp; Art Director focused on digital design for brands that like to have fun."
+  "footer": "Patrick DUPART, taxi au départ de Rambouillet, service professionnel et de qualité. Inscrit au registre des métiers sous le numéro : 497693572 ",
+  "dark_mode": true,
+  "site_name": "Patrick Dupart",
+  "site_description": "Taxi à Rambouillet",
+  "hero_title": "Toutes distances<br>Transport de confiance<br><strong>7j/7 et 24h24 sur RDV</strong>",
+  "hero_subtitle": "<span class=\"details\">Conventionné sécurité sociale<br>Discretion assurée</span>"
 }
